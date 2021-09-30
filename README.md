@@ -1,4 +1,4 @@
-# Rusty
+# Bizon
 Rusty is a multifunction discord bot under development currently.
 
 # Invite link
